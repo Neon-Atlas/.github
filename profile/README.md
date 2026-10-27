@@ -25,20 +25,6 @@ they are all listed.
   </tr>
 </table>
 
-## The mark
-
-<img src="assets/mark.svg" width="96" height="96" align="right" alt="The Neon Atlas mark">
-
-The mark is the globe seen over the Atlantic, cut into tiles and clipped to a circle so the
-outer tiles keep the curve of the Earth. Each continent is one colour of the spectrum and the
-sea is the ink, `#16123A`. The coastlines are real, sampled from Natural Earth's public domain
-outlines.
-
-<img src="assets/palette.svg" width="100%" alt="The spectrum: blue #2B4BF2, indigo #4A3FE8, violet #6C4CE0, orchid #9B4DE0, magenta #E23C97, coral #FF5F6D and peach #FFA45C">
-
-The colours arrive as flat tiles on a light page, never as a gradient or a glow. Type is
-Satoshi for display, DM Sans for text and JetBrains Mono for labels and addresses.
-
 ## Get in touch
 
 [hello@neonatlas.uk](mailto:hello@neonatlas.uk) reaches a person, for partnerships, press,
