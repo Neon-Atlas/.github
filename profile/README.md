@@ -23,6 +23,10 @@ they are all listed.
     <td><a href="https://github.com/Neon-Atlas/draw-it-out"><img src="assets/products/draw-it-out.svg" width="64" height="64" alt="draw-it-out"></a></td>
     <td><strong><a href="https://github.com/Neon-Atlas/draw-it-out">draw-it-out</a></strong><br>A Claude Code plugin that answers questions about your own app from its code, with the file that proves it. Open source under the MIT licence.</td>
   </tr>
+  <tr>
+    <td><a href="https://playparagon.app"><img src="assets/products/paragon.svg" width="64" height="64" alt="PARAGON"></a></td>
+    <td><strong><a href="https://playparagon.app">PARAGON</a></strong><br>A game in which you raise an AI in a harbour town that remembers how it was treated. Coming soon to iPhone and Android, with a waitlist open now.</td>
+  </tr>
 </table>
 
 ## Get in touch
