@@ -27,6 +27,14 @@ they are all listed.
     <td><a href="https://playparagon.app"><img src="assets/products/paragon.svg" width="64" height="64" alt="PARAGON"></a></td>
     <td><strong><a href="https://playparagon.app">PARAGON</a></strong><br>A game in which you raise an AI in a harbour town that remembers how it was treated. Coming soon to iPhone and Android, with a waitlist open now.</td>
   </tr>
+  <tr>
+    <td><a href="https://cuppafocus.com"><img src="assets/products/cuppafocus.png" width="64" height="64" alt="Cuppafocus"></a></td>
+    <td><strong><a href="https://cuppafocus.com">Cuppafocus</a></strong><br>A warm study timer in the browser that keeps a daily streak, with no account to make.</td>
+  </tr>
+  <tr>
+    <td><a href="https://hike.watch"><img src="assets/products/hikewatch.svg" width="64" height="64" alt="Hikewatch"></a></td>
+    <td><strong><a href="https://hike.watch">Hikewatch</a></strong><br>Renewal dates for the software a small team pays for, laid out on a year planner. In early access, with reminder emails still being built.</td>
+  </tr>
 </table>
 
 ## Get in touch
