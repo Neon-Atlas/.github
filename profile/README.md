@@ -33,7 +33,7 @@ they are all listed.
   </tr>
   <tr>
     <td><a href="https://hike.watch"><img src="assets/products/hikewatch.svg" width="64" height="64" alt="Hikewatch"></a></td>
-    <td><strong><a href="https://hike.watch">Hikewatch</a></strong><br>Renewal dates for the software a small team pays for, laid out on a year planner. In early access, with reminder emails still being built.</td>
+    <td><strong><a href="https://hike.watch">Hikewatch</a></strong><br>When each SaaS tool a small team pays for renews, and whether its price is changing, with emails before the bill lands. In early access, free for up to 3 tools.</td>
   </tr>
 </table>
 
