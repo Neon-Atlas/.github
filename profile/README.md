@@ -25,7 +25,7 @@ they are all listed.
   </tr>
   <tr>
     <td><a href="https://playparagon.app"><img src="assets/products/paragon.svg" width="64" height="64" alt="PARAGON"></a></td>
-    <td><strong><a href="https://playparagon.app">PARAGON</a></strong><br>A game in which you raise an AI in a harbour town that remembers how it was treated. Coming soon to iPhone and Android, with a waitlist open now.</td>
+    <td><strong><a href="https://playparagon.app">PARAGON</a></strong><br>A game in which you raise an AI in a harbour town that remembers how it was treated, alongside other players' AIs. Out now on Android, and coming to iPhone.</td>
   </tr>
   <tr>
     <td><a href="https://cuppafocus.com"><img src="assets/products/cuppafocus.png" width="64" height="64" alt="Cuppafocus"></a></td>
@@ -33,7 +33,11 @@ they are all listed.
   </tr>
   <tr>
     <td><a href="https://hike.watch"><img src="assets/products/hikewatch.svg" width="64" height="64" alt="Hikewatch"></a></td>
-    <td><strong><a href="https://hike.watch">Hikewatch</a></strong><br>When each SaaS tool a small team pays for renews, and whether its price is changing, with emails before the bill lands. In early access, free for up to 3 tools.</td>
+    <td><strong><a href="https://hike.watch">Hikewatch</a></strong><br>When each SaaS tool a small team pays for renews, and whether its price is changing, with emails before the bill lands. Free for up to 3 tools.</td>
+  </tr>
+  <tr>
+    <td><a href="https://creatorflow.media"><img src="assets/products/creatorflow.png" width="64" height="64" alt="CreatorFlow"></a></td>
+    <td><strong><a href="https://creatorflow.media">CreatorFlow</a></strong><br>A marketplace for YouTube sponsor slots, priced on the viewers a creator's own analytics expect at the read, with a delivery report for both sides once the video is out.</td>
   </tr>
 </table>
 
